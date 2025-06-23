@@ -8,3 +8,4 @@ def hello(name = None):
 
 hello()
 hello("Menna")
+hello("Text")
